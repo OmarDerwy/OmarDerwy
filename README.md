@@ -13,6 +13,13 @@
 
 ![Static Badge](https://img.shields.io/badge/Frontend-React-blue)
 ![Static Badge](https://img.shields.io/badge/Backend-Django-green)
+![Static Badge](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mobile-React_Native-61DAFB?logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
 
 ### About Me
 - 🔭 I’m currently working on various web applications using React and Django.

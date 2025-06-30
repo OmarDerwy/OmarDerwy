@@ -21,7 +21,7 @@
 
 ### Works
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-A020F0?style=for-the-badge)](https://omarderwy.github.io/portfolio/)
-[![My CV](https://img.shields.io/badge/My_CV-aaa6c3?style=for-the-badge)](https://drive.google.com/file/d/1AiRpSDFofWueg0du5gVDTx3Kflv-Ma_K/view?usp=sharing)
+[![My CV](https://img.shields.io/badge/My_CV-8b81c7?style=for-the-badge)](https://drive.google.com/file/d/1AiRpSDFofWueg0du5gVDTx3Kflv-Ma_K/view?usp=sharing)
 <!-- changes -->
 ### Let's Connect! 🤝
 

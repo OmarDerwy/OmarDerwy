@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Static Badge](https://img.shields.io/badge/Frontend-React-blue)
 
 ![Static Badge](https://img.shields.io/badge/Backend-Django-green)

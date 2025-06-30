@@ -14,6 +14,14 @@
 ![Static Badge](https://img.shields.io/badge/Frontend-React-blue)
 ![Static Badge](https://img.shields.io/badge/Backend-Django-green)
 
+### About Me
+- 🔭 I’m currently working on various web applications using React and Django.
+- 🌱 I’m currently learning advanced React patterns and honing my proficiency in Typescript.
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+
+### Works
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-A020F0?style=for-the-badge)](https://omarderwy.github.io/portfolio/)
+
 ### Let's Connect! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-derwy)

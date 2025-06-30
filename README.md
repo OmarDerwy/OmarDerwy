@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋<br>My name is Omar Elderwy</h1>
-<h3>I am a software engineer specialized in React/Django</h3>
+<h3 align="center">I am a software engineer specialized in React/Django</h3>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/Frontend-React-blue)
-![Static Badge](https://img.shields.io/badge/Backend-Django-green)
+![Static Badge](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Backend-Django-green?logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)

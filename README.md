@@ -21,7 +21,8 @@
 
 ### Works
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-A020F0?style=for-the-badge)](https://omarderwy.github.io/portfolio/)
-
+[![My CV](https://img.shields.io/badge/My_CV-aaa6c3?style=for-the-badge)](https://drive.google.com/file/d/1AiRpSDFofWueg0du5gVDTx3Kflv-Ma_K/view?usp=sharing)
+<!-- changes -->
 ### Let's Connect! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-derwy)

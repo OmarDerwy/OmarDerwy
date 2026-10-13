@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" alt="React Badge"/>
     <img src="https://img.shields.io/badge/Backend-Django-green?logo=django&logoColor=white" alt="Django Badge"/>
-    <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="MongoDB Badge"/>
     <img src="https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white" alt="Express Badge"/>
     <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB?logo=react&logoColor=white" alt="React Native Badge"/>

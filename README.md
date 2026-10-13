@@ -19,12 +19,12 @@
     <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB?logo=react&logoColor=white" alt="React Native Badge"/>
     <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-    <img src="https://img.shields.io/badge/Cloud-GCP-232F3E?logo=googlecloud&logoColor=white" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud&logoColor=white" alt="AWS Badge"/>
     <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker Badge"/>
 </p>
 
 ### About Me
-- 🔭 I’m currently working on various web applications using React and Django.
+- 🔭 I’m currently working on various web applications using React and Express.
 - 🌱 I’m currently learning advanced React patterns and honing my proficiency in Typescript.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 
